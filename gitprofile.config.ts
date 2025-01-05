@@ -106,8 +106,8 @@ const CONFIG = {
     {
       institution: 'University of Colorado Colorado Springs',
       degree: 'BI Computer Science',
-      from: '2023',
-      to: '2020',
+      from: '2020',
+      to: '2023',
     },
   ],
   publications: [],
